@@ -1,7 +1,3 @@
 dfdfdfdf
 edit in github
-<<<<<<< HEAD
 edit in local
-=======
-edit in github again
->>>>>>> b27c7b826da229ddb23113aa299ed8139c9d019e
