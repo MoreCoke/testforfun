@@ -1,6 +1,2 @@
 dfdfdfdf
-edit in github
-edit in local
-edit in github again
-git is hard
-local git is difficult
+
