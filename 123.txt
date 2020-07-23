@@ -2,4 +2,7 @@ dfdfdfdf
 我好想睡覺
 加油加油，努力變強
 我在遠端繼續努力學習
-最後一次發 commit，待會要看 code
+最後一次發 commit，待會要看 code(較晚發)
+rebase power!!!(較早發)
+
+先使用 git add 將修改後的衝突加入暫存區，之後再用 git rebase --continue
